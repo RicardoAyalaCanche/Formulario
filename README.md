@@ -1,4 +1,4 @@
-# Formulario :fa-file-o:
+# Formulario
 2021-12-13 13:03:12 Lunes
 
 ### Introduccion
